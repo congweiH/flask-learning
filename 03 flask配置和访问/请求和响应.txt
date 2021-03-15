@@ -1,0 +1,21 @@
+
+请求（request）:
+请求行：
+    请求地址 http://192.168.1.25:5050
+    请求方式 get  post
+请求头：
+    user-agent:xxx
+    host:xxx
+    accept:xxx
+    ...
+请求体：
+
+
+响应（response）:
+响应行：
+    状态码  202 正常 , 404 not found
+响应头：
+    content-length:
+    content-type:
+响应体：
+    网页的内容（服务器返回的内容）
